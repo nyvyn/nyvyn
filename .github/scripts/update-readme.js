@@ -4,8 +4,7 @@ const Parser = require('rss-parser');
 const fetch = require('node-fetch');
 
 const README_PATH = path.join(__dirname, '../../README.md');
-const POSTS_FEED = 'https://ronlancaster.com/feed.xml'; // Update if your posts feed URL is different
-const NOTES_FEED = 'https://ronlancaster.com/notes/feed.xml'; // Update if your notes feed URL is different
+const POSTS_FEED = 'https://ronlancaster.com/index.xml'; // Update if your posts feed URL is different
 const GITHUB_USER = 'nyvyn'; // Update if your GitHub username is different
 
 async function fetchFeedItems(feedUrl, max = 5) {
@@ -35,11 +34,9 @@ function updateSection(content, marker, newLines) {
 (async function main() {
   let readme = fs.readFileSync(README_PATH, 'utf8');
   const posts = await fetchFeedItems(POSTS_FEED);
-  const notes = await fetchFeedItems(NOTES_FEED);
   const repos = await fetchRecentRepos(GITHUB_USER);
 
   readme = updateSection(readme, 'RECENT_POSTS', posts);
-  readme = updateSection(readme, 'RECENT_NOTES', notes);
   readme = updateSection(readme, 'RECENT_REPOS', repos);
 
   fs.writeFileSync(README_PATH, readme);
