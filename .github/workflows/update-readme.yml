@@ -30,4 +30,6 @@ jobs:
           git add README.md
           git diff --cached --quiet || git commit -m 'chore: update README with latest posts, notes, and repos'
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
