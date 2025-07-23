@@ -20,11 +20,6 @@
 *Updating...*
 <!-- RECENT_POSTS_END -->
 
-### Recent Notes
-<!-- RECENT_NOTES_START -->
-*Updating...*
-<!-- RECENT_NOTES_END -->
-
 ---
 
 _This README updates automatically with my latest writing and projects._
