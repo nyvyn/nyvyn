@@ -2,7 +2,7 @@
 
 **Developer. Writer. Tinkerer.**
 
-[ronlancaster.com](https://ronlancaster.com)
+[www.ronlancaster.com](https://www.ronlancaster.com)
 
 ---
 
