@@ -12,7 +12,11 @@
 
 ### Latest Projects
 <!-- RECENT_REPOS_START -->
-*Could not fetch repos*
+- [nyvyn](https://github.com/nyvyn/nyvyn) ★0
+- [nyvyn.github.io](https://github.com/nyvyn/nyvyn.github.io) ★0
+- [spec-driven-development](https://github.com/nyvyn/spec-driven-development) ★0
+- [helpful.computer](https://github.com/nyvyn/helpful.computer) ★3
+- [tauri-nextjs-template](https://github.com/nyvyn/tauri-nextjs-template) ★0
 <!-- RECENT_REPOS_END -->
 
 ### Recent Posts
