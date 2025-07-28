@@ -12,11 +12,11 @@
 
 ### Latest Projects
 <!-- RECENT_REPOS_START -->
+- [lmstudio-mcp](https://github.com/nyvyn/lmstudio-mcp) ★0
+- [spec-driven-development](https://github.com/nyvyn/spec-driven-development) ★0
 - [lonely.cat](https://github.com/nyvyn/lonely.cat) ★0
 - [nyvyn](https://github.com/nyvyn/nyvyn) ★0
 - [nyvyn.github.io](https://github.com/nyvyn/nyvyn.github.io) ★0
-- [spec-driven-development](https://github.com/nyvyn/spec-driven-development) ★0
-- [helpful.computer](https://github.com/nyvyn/helpful.computer) ★3
 <!-- RECENT_REPOS_END -->
 
 ### Recent Posts
