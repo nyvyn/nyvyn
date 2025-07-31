@@ -12,11 +12,11 @@
 
 ### Latest Projects
 <!-- RECENT_REPOS_START -->
+- [lmstudio-mcp](https://github.com/nyvyn/lmstudio-mcp) ★0
+- [nyvyn](https://github.com/nyvyn/nyvyn) ★0
 - [helpful.computer](https://github.com/nyvyn/helpful.computer) ★8
 - [mem-moi](https://github.com/nyvyn/mem-moi) ★0
 - [divedock](https://github.com/nyvyn/divedock) ★0
-- [nyvyn](https://github.com/nyvyn/nyvyn) ★0
-- [lmstudio-mcp](https://github.com/nyvyn/lmstudio-mcp) ★0
 <!-- RECENT_REPOS_END -->
 
 ### Recent Posts
