@@ -12,10 +12,10 @@
 
 ### Latest Projects
 <!-- RECENT_REPOS_START -->
+- [helpful.computer](https://github.com/nyvyn/helpful.computer) ★8
 - [lonely.cat](https://github.com/nyvyn/lonely.cat) ★0
 - [nyvyn](https://github.com/nyvyn/nyvyn) ★0
 - [lmstudio-mcp](https://github.com/nyvyn/lmstudio-mcp) ★0
-- [helpful.computer](https://github.com/nyvyn/helpful.computer) ★8
 - [mem-moi](https://github.com/nyvyn/mem-moi) ★0
 <!-- RECENT_REPOS_END -->
 
