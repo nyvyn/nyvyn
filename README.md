@@ -12,10 +12,10 @@
 
 ### Latest Projects
 <!-- RECENT_REPOS_START -->
+- [nyvyn.github.io](https://github.com/nyvyn/nyvyn.github.io) ★0
 - [nyvyn](https://github.com/nyvyn/nyvyn) ★0
 - [helpful.computer](https://github.com/nyvyn/helpful.computer) ★8
 - [autonomais](https://github.com/nyvyn/autonomais) ★14
-- [nyvyn.github.io](https://github.com/nyvyn/nyvyn.github.io) ★0
 - [lonely.cat](https://github.com/nyvyn/lonely.cat) ★0
 <!-- RECENT_REPOS_END -->
 
