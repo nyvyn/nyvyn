@@ -13,10 +13,10 @@
 ### Latest Projects
 <!-- RECENT_REPOS_START -->
 - [desert-planet](https://github.com/nyvyn/desert-planet) ★0
-- [planet-arrakis](https://github.com/nyvyn/planet-arrakis) ★0
 - [nyvyn](https://github.com/nyvyn/nyvyn) ★0
 - [nyvyn.github.io](https://github.com/nyvyn/nyvyn.github.io) ★0
 - [helpful.computer](https://github.com/nyvyn/helpful.computer) ★8
+- [autonomais](https://github.com/nyvyn/autonomais) ★14
 <!-- RECENT_REPOS_END -->
 
 ### Recent Posts
