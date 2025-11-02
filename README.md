@@ -12,11 +12,11 @@
 
 ### Latest Projects
 <!-- RECENT_REPOS_START -->
+- [Unit_Control_2_0](https://github.com/nyvyn/Unit_Control_2_0) ★0
+- [Total_Automization_2_0](https://github.com/nyvyn/Total_Automization_2_0) ★0
 - [wikimem](https://github.com/nyvyn/wikimem) ★0
-- [nyvyn](https://github.com/nyvyn/nyvyn) ★0
-- [tauri-nextjs-template](https://github.com/nyvyn/tauri-nextjs-template) ★0
-- [desert-planet](https://github.com/nyvyn/desert-planet) ★0
-- [nyvyn.github.io](https://github.com/nyvyn/nyvyn.github.io) ★0
+- [fear-is-the-mind-killer](https://github.com/nyvyn/fear-is-the-mind-killer) ★0
+- [factorio-mod-template](https://github.com/nyvyn/factorio-mod-template) ★0
 <!-- RECENT_REPOS_END -->
 
 ### Recent Posts
