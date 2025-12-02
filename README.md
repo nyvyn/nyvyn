@@ -12,9 +12,9 @@
 
 ### Latest Projects
 <!-- RECENT_REPOS_START -->
+- [wikimem](https://github.com/nyvyn/wikimem) ★0
 - [nyvyn](https://github.com/nyvyn/nyvyn) ★0
 - [helpful.computer](https://github.com/nyvyn/helpful.computer) ★8
-- [wikimem](https://github.com/nyvyn/wikimem) ★0
 - [Moon-Logic-2](https://github.com/nyvyn/Moon-Logic-2) ★0
 - [Unit_Control_2_0](https://github.com/nyvyn/Unit_Control_2_0) ★0
 <!-- RECENT_REPOS_END -->
