@@ -12,11 +12,7 @@
 
 ### Latest Projects
 <!-- RECENT_REPOS_START -->
-- [nyvyn](https://github.com/nyvyn/nyvyn) ★0
-- [wikimem](https://github.com/nyvyn/wikimem) ★0
-- [autonomais](https://github.com/nyvyn/autonomais) ★14
-- [lonely.cat](https://github.com/nyvyn/lonely.cat) ★0
-- [slipstack-react](https://github.com/nyvyn/slipstack-react) ★0
+*Could not fetch repos*
 <!-- RECENT_REPOS_END -->
 
 ### Recent Posts
