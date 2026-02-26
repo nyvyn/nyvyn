@@ -12,8 +12,8 @@
 
 ### Latest Projects
 <!-- RECENT_REPOS_START -->
-- [nyvyn.github.io](https://github.com/nyvyn/nyvyn.github.io) ★0
 - [nyvyn](https://github.com/nyvyn/nyvyn) ★0
+- [nyvyn.github.io](https://github.com/nyvyn/nyvyn.github.io) ★0
 - [wikimem](https://github.com/nyvyn/wikimem) ★0
 - [reachy_mini_conversation_app](https://github.com/nyvyn/reachy_mini_conversation_app) ★0
 - [autonomais](https://github.com/nyvyn/autonomais) ★14
