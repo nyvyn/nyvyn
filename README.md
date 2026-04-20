@@ -12,11 +12,10 @@
 
 ### Latest Projects
 <!-- RECENT_REPOS_START -->
-- [nyvyn](https://github.com/nyvyn/nyvyn) ★0
-- [sandpack](https://github.com/nyvyn/sandpack) ★0
 - [nyvyn.github.io](https://github.com/nyvyn/nyvyn.github.io) ★0
-- [reachy_mini_conversation_app](https://github.com/nyvyn/reachy_mini_conversation_app) ★0
 - [slipstack-react](https://github.com/nyvyn/slipstack-react) ★0
+- [nyvyn](https://github.com/nyvyn/nyvyn) ★0
+- [tauri-nextjs-template](https://github.com/nyvyn/tauri-nextjs-template) ★0
 <!-- RECENT_REPOS_END -->
 
 ### Recent Posts
