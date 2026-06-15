@@ -12,8 +12,8 @@
 
 ### Latest Projects
 <!-- RECENT_REPOS_START -->
-- [tauri-nextjs-template](https://github.com/nyvyn/tauri-nextjs-template) ★0
 - [nyvyn](https://github.com/nyvyn/nyvyn) ★0
+- [tauri-nextjs-template](https://github.com/nyvyn/tauri-nextjs-template) ★0
 - [nyvyn.github.io](https://github.com/nyvyn/nyvyn.github.io) ★0
 - [slipstack-react](https://github.com/nyvyn/slipstack-react) ★0
 <!-- RECENT_REPOS_END -->
