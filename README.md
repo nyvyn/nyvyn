@@ -12,9 +12,9 @@
 
 ### Latest Projects
 <!-- RECENT_REPOS_START -->
-- [slipstack-react](https://github.com/nyvyn/slipstack-react) ★0
-- [nyvyn](https://github.com/nyvyn/nyvyn) ★0
 - [nyvyn.github.io](https://github.com/nyvyn/nyvyn.github.io) ★0
+- [nyvyn](https://github.com/nyvyn/nyvyn) ★0
+- [slipstack-react](https://github.com/nyvyn/slipstack-react) ★0
 <!-- RECENT_REPOS_END -->
 
 ### Recent Posts
